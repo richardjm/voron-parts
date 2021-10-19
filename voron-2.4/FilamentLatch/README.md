@@ -4,7 +4,7 @@ This is originally inspired by a youtube video - [https://www.youtube.com/watch?
 
 Another user is creating cad and variants - [https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker](https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker)
 
-![Latch](Images/Latch.png)
+![Latch](Images/Latch-v68-3mm.jpg)
 
 ## So why did you do it?
 
@@ -21,7 +21,7 @@ Another user is creating cad and variants - [https://github.com/v6cl/My-Voron2.4
 
 1. Cad attempt one failed, just modified surfaces to create a filament variant but adjustement beyond that failed
 1. Cad attempt two failed, created a traced version copying the dimensions but again couldn't get a reliable adjustment
-1. Cad attempt three of the cad sketch made as built was finally onto something, took until v45 before I had something that seemed to fulfil my requirements
+1. Cad attempt three of the cad sketch made as built was finally onto something, took until v45 before I had something that seemed to fulfil my requirements, then after thinking overnight revisited earlier designs and finally hit RC at v68 (18 actually printed)
 
 ## Parameters
 
