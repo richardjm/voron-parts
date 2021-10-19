@@ -4,7 +4,7 @@ This is originally inspired by a youtube video - [https://www.youtube.com/watch?
 
 Another user is creating cad and variants - [https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker](https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker)
 
-![Latch](Images/Latch.png)
+![Latch](Images/Latch-v68-3mm.png)
 
 ## So why did you do it?
 
