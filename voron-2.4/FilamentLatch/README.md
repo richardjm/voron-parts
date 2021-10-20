@@ -18,8 +18,8 @@ Another user is creating cad and variants - [https://github.com/v6cl/My-Voron2.4
 ![250Plate](Images/250Plate.png)
 
 ## Hardware
-3mm-6.5mm - m3x12
-7.0mm+ - m3x16
+- 3mm-6.5mm - m3x12
+- 7.0mm+ - m3x16
 
 ## The process
 
