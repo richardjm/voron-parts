@@ -18,14 +18,15 @@ Another user is creating cad and variants - [https://github.com/v6cl/My-Voron2.4
 ![250Plate](Images/250Plate.png)
 
 ## Hardware
-- 3mm-6.5mm - m3x12
-- 7.0mm+ - m3x16
+- 2.6mm-5.8mm - m3x12
+- 6.0mm-8.4mm - m3x16
 
 ## The process
 
 1. Cad attempt one failed, just modified surfaces to create a filament variant but adjustement beyond that failed
 1. Cad attempt two failed, created a traced version copying the dimensions but again couldn't get a reliable adjustment
 1. Cad attempt three of the cad sketch made as built was finally onto something, took until v45 before I had something that seemed to fulfil my requirements, then after thinking overnight revisited earlier designs and finally hit RC at v68 (18 actually printed)
+1. Final design and thankfully discovered [sheeter](https://n3rdlab.com/downloads/sheeter/)
 
 ## Parameters
 
