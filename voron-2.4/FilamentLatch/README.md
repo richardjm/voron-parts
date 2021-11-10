@@ -41,7 +41,7 @@ Another user is creating cad and variants - [https://github.com/v6cl/My-Voron2.4
 
 ## Parameters
 
-Make your custom hinges you can modify the parameters in the cad - via Modify -> Change Parameters. Removing the logo just requires
+To make your own custom hinges you can modify the parameters in the cad - via Modify -> Change Parameters. Removing the logo just requires
 you to supress the logo extrusion (last extrusion in the first group).
 
 Changing these parameters to extremes may either not work or require fixups of chamfers and fillets, or even the primary sketch.
@@ -51,3 +51,5 @@ Changing these parameters to extremes may either not work or require fixups of c
 Once done, adjust the build plate view (use top view to ensure clearance) and save the file as mesh.
 
 ![BuildPlate](Images/BuildPlate.png)
+
+discord:whistlinric
