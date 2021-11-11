@@ -16,3 +16,5 @@ Almost all of these files are works in progress, they may break your printer and
 ![SKRHangMounts](Images/SKRHangMounts.png)
 
 ![PiHangMount](Images/PiHangMount.png)
+
+discord: whistlinric
