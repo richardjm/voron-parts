@@ -16,4 +16,14 @@ This is not an original idea. For information go on history [go here](https://gi
 1. The filaments are a tight-ish fit on the hinge arms but loose in the pivot intentionally
 1. Connect to frame using with an m3 nut or similar with an m3x12 screw
 
+## Designs
+Choose a size based on your panel and foam thickness. **Always do a test print before assuming the size will work for you.**
+
+NewLatch-v0.1-TopHat-?.?mm.stl - used for the perimiter at the top of the side panels to create clearance for the top hat
+
+NewLatch-v0.1-TopRear-?.?mm.stl - used for the top latches on the electronics panel
+
+NewLatch-v0.1-?.?mm.stl - used everywhere else
+
+## Who
 discord:whistlinric
