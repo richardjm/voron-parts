@@ -6,6 +6,7 @@ This is not an original idea. For information go on history [go here](https://gi
 
 ## Hardware
 - m3x12
+- Only tested against LDO extrusions, if you're using something else the pins may need to be adjusted (let me know how)
 
 ## Assembly
 
