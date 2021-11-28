@@ -32,7 +32,7 @@ Another user is creating cad and variants - [https://github.com/v6cl/My-Voron2.4
 
 ## Assembly
 
-![Assembly.avi](Images/Assembly.avi)
+![Assembly.mp4](Images/Assembly.mp4)
 
 1. Print parts (do test prints to ensure you're happy with the fit before going wild)
 1. Assemble to correct orientation
