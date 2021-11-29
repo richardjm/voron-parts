@@ -1,5 +1,5 @@
 # voron-parts
-Just some other custom parts I've made that probably aren't worth making a pull request over.
+Just some other custom parts I've made that probably aren't worth making a pull request over. (discord: whistlinric)
 
 Almost all of these files are works in progress, they may break your printer and set your house on fire, so use at your own risk etc.
 
@@ -35,5 +35,3 @@ Relocation for https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%20
 # Others
 - [Simple hinge for 2.4](voron-2.4/SimpleHinge)
 - [CerealBlowers](voron-2.4/CerealBlowers)
-
-discord: whistlinric
