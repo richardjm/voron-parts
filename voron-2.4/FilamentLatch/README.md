@@ -1,4 +1,4 @@
-# Latch for panels on 2020 extrusion
+# Quick release latch for panels on 2020 extrusion
 
 This is originally inspired by a youtube video - [https://www.youtube.com/watch?v=6p7M18oPn3k](https://www.youtube.com/watch?v=6p7M18oPn3k)
 
@@ -32,7 +32,7 @@ Another user is creating cad and variants - [https://github.com/v6cl/My-Voron2.4
 
 ## Assembly
 
-![Assembly.png](Images/Assembly.png)
+![Assembly.gif](Images/Assembly.gif)
 
 1. Print parts (do test prints to ensure you're happy with the fit before going wild)
 1. Assemble to correct orientation
