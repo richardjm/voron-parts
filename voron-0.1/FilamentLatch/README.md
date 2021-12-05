@@ -16,6 +16,7 @@ This is not an original idea. For information go on history [go here](https://gi
 1. Insert one long filament length connecting middle hinge to outer hinge
 1. The filaments are a tight-ish fit on the hinge arms but loose in the pivot intentionally
 1. Connect to frame using with an m3 nut or similar with an m3x12 screw
+1. @Ingstronmentalist requested a handle to open the latches, so if you're having difficulty opening the latches print one of those too
 
 ## Designs
 Choose a size based on your panel and foam thickness. **Always do a test print before assuming the size will work for you.**
