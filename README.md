@@ -8,10 +8,14 @@ Almost all of these files are works in progress, they may break your printer and
 [Voron 2.4 backup and links](https://github.com/richardjm/voronpi-klipper-backup)  
 
 # [Quick release latch for 2020](voron-2.4/FilamentLatch)
+## [Now on VoronUsers as Snap Latch 2020](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020)
 ![Quick release latch](voron-2.4/FilamentLatch/Images/Latch-v68-3mm.jpg)
 
 # [Quick release latch for 1515](voron-0.1/FilamentLatch)
 ![Quick release latch](voron-0.1/FilamentLatch/Images/Latch-v63.jpg)
+
+# [DFH inspired clone wago mounts for 0.1](voron-01/DFHInspiredCloneWagoBedMount)
+![Clone Wago for 0.1](voron-0.1/DFHInspiredCloneWagoBedMount/Images/CloneWago.jpg)
 
 # [Chunky 0.1 skirt with power](voron-0.1/ChunkyPowerSkirts)
 ![Chunky skirt](Images/ChunkySkirt1.png)
@@ -28,6 +32,8 @@ Requires some filing for 0.1 pcb
 ![SKRHangMounts](Images/SKRHangMounts.png)
 
 ![PiHangMount](Images/PiHangMount.png)
+
+![PiZeroMount](Images/PiZeroMount.png)
 
 # [AY endstop for 2.4 - untested](voron-2.4/AYEndstop)
 Relocation for https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_GE5C
