@@ -14,7 +14,7 @@ Almost all of these files are works in progress, they may break your printer and
 # [Quick release latch for 1515](voron-0.1/FilamentLatch)
 ![Quick release latch](voron-0.1/FilamentLatch/Images/Latch-v63.jpg)
 
-# [DFH inspired clone wago mounts for 0.1](voron-01/DFHInspiredCloneWagoBedMount)
+# [DFH inspired clone wago mounts for 0.1](voron-0.1/DFHInspiredCloneWagoBedMount)
 ![Clone Wago for 0.1](voron-0.1/DFHInspiredCloneWagoBedMount/Images/CloneWago.jpg)
 
 # [Chunky 0.1 skirt with power](voron-0.1/ChunkyPowerSkirts)
