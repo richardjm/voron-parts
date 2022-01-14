@@ -17,6 +17,9 @@ Almost all of these files are works in progress, they may break your printer and
 # [DFH inspired clone wago mounts for 0.1](voron-0.1/DFHInspiredCloneWagoBedMount)
 ![Clone Wago for 0.1](voron-0.1/DFHInspiredCloneWagoBedMount/Images/CloneWago.jpg)
 
+# [WLED Controller Box](generic/wled_controller_box)
+![WLED Controller Box](generic/wled_controller_box/Images/wled_controller_box.png)
+
 # [Chunky 0.1 skirt with power](voron-0.1/ChunkyPowerSkirts)
 ![Chunky skirt](Images/ChunkySkirt1.png)
 
