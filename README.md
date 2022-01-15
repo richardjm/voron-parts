@@ -20,6 +20,9 @@ Almost all of these files are works in progress, they may break your printer and
 # [WLED Controller Box](generic/wled_controller_box)
 ![WLED Controller Box](generic/wled_controller_box/Images/wled_controller_box.png)
 
+# [SparkFun Thing Plus Din Mount](voron-2.4/SparkFunThingPlus)
+![SparkFun Thing Plus Din Mount](voron-2.4/SparkFunThingPlus/Images/SparkFunThingPlus.jpg)
+
 # [Chunky 0.1 skirt with power](voron-0.1/ChunkyPowerSkirts)
 ![Chunky skirt](Images/ChunkySkirt1.png)
 
