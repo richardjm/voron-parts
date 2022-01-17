@@ -41,6 +41,8 @@ Requires some filing for 0.1 pcb
 
 ![PiZeroMount](Images/PiZeroMount.png)
 
+![PiBMount2](Images/PiBMount2.png)
+
 # [AY endstop for 2.4 - untested](voron-2.4/AYEndstop)
 Relocation for https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_GE5C
 
