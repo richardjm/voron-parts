@@ -14,6 +14,9 @@ Almost all of these files are works in progress, they may break your printer and
 # [Quick release latch for 1515](voron-0.1/FilamentLatch)
 ![Quick release latch](voron-0.1/FilamentLatch/Images/Latch-v63.jpg)
 
+# [Mgn12c for 0.1](voron-0.1/Mgn12c)
+![WLED Controller Box](voron-0.1/Mgn12c/Images/Photo.jpg)
+
 # [DFH inspired clone wago mounts for 0.1](voron-0.1/DFHInspiredCloneWagoBedMount)
 ![Clone Wago for 0.1](voron-0.1/DFHInspiredCloneWagoBedMount/Images/CloneWago.jpg)
 
