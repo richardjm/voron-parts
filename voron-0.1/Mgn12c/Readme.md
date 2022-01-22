@@ -1,5 +1,5 @@
 
-# Mgn12c x-rail for voron 0.1 - probably a terrible idea
+# Mgn12c x-rail for voron 0.1
 An idea to replace the x-extrusion and mgn7h rail with a lone mgn12c rail.
 
 ## Why
@@ -14,7 +14,7 @@ An idea to replace the x-extrusion and mgn7h rail with a lone mgn12c rail.
 
 ## Status
 - Printed and fitted to my v0.1
-- Subsequent change to m3x35 bolts to hold cowling
+- Subsequent change to m3x35 bolts to hold cowling (untested)
 
 ## BOM
 This is all from the cad and memory so it may be wrong
@@ -49,7 +49,7 @@ Microswitch and m2 screws from original carriage
 
 ## Likely issues
 - Reduced hot-end airflow
-- Heavier - not by as much as you'd think
+- Heavier
 - Rail guides are exactly the size of the mgn12 rail - should there be some allowance?
 - Had to move the X idlers 1mm forward to create space for the rail support bolts
 
