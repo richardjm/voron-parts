@@ -15,6 +15,9 @@ Almost all of these files are works in progress, they may break your printer and
 # [Quick release latch for 1515](voron-0.1/FilamentLatch)
 ![Quick release latch](voron-0.1/FilamentLatch/Images/Latch-v63.jpg)
 
+# [StealthBurner ADXL Mount](voron-2.4/StealthBurnerADXL) 🚮 - Beta5
+![SteathBurner ADXL Mount](voron-2.4/StealthBurnerADXL/Images/Beta5.jpg)
+
 # [Mgn12c for 0.1](voron-0.1/Mgn12c)
 ![Mgn12c](voron-0.1/Mgn12c/Images/Photo.jpg)
 
