@@ -5,6 +5,7 @@ Almost all of these files are works in progress, they may break your printer and
 
 ["Official" mods by me in VoronUsers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm)  
 [WLED Moonraker](https://moonraker.readthedocs.io/en/latest/configuration/#wled)  
+[Voron 0.1 backup and links](https://github.com/richardjm/voron0pi-klipper-backup)  
 [Voron 2.4 backup and links](https://github.com/richardjm/voronpi-klipper-backup)  
 
 # [Quick release latch for 2020](voron-2.4/FilamentLatch)
@@ -15,7 +16,10 @@ Almost all of these files are works in progress, they may break your printer and
 ![Quick release latch](voron-0.1/FilamentLatch/Images/Latch-v63.jpg)
 
 # [Mgn12c for 0.1](voron-0.1/Mgn12c)
-![WLED Controller Box](voron-0.1/Mgn12c/Images/Photo.jpg)
+![Mgn12c](voron-0.1/Mgn12c/Images/Photo.jpg)
+
+# [Mgn9h for 0.1](voron-0.1/Mgn9h) (untested)
+![Mgn9h](voron-0.1/Mgn9h/Images/FrontView.png)
 
 # [DFH inspired clone wago mounts for 0.1](voron-0.1/DFHInspiredCloneWagoBedMount)
 ![Clone Wago for 0.1](voron-0.1/DFHInspiredCloneWagoBedMount/Images/CloneWago.jpg)
@@ -23,7 +27,7 @@ Almost all of these files are works in progress, they may break your printer and
 # [WLED Controller Box](generic/wled_controller_box)
 ![WLED Controller Box](generic/wled_controller_box/Images/wled_controller_box.png)
 
-# [LED clip in mount for 0.1](voron-0.1/LedClipInMounts)
+# [LED clip in mount for 0.1](voron-0.1/LedClipInMounts) (work in progress)
 ![LED clip in mount for 0.1](voron-0.1/LedClipInMounts/Images/led-clipin.png)
 
 # [SparkFun Thing Plus Din Mount](voron-2.4/SparkFunThingPlus)
@@ -40,16 +44,14 @@ Requires some filing for 0.1 pcb
 # [Front keystone for 2.4](voron-2.4/KeystoneSkirt)
 ![SkirtKeystone](Images/SkirtKeystone.png)
 
-# [No drill mounts for 0.1](voron-0.1/ElectronicsMounts)
+# [No drill mounts electronics for 0.1](voron-0.1/ElectronicsMounts)
 ![SKRHangMounts](Images/SKRHangMounts.png)
-
-![PiHangMount](Images/PiHangMount.png)
 
 ![PiZeroMount](Images/PiZeroMount.png)
 
 ![PiBMount2](Images/PiBMount2.png)
 
-# [AY endstop for 2.4 - untested](voron-2.4/AYEndstop)
+# [AY endstop for 2.4](voron-2.4/AYEndstop) (untested)
 Relocation for https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_GE5C
 
 ![AYEndstop](Images/AYEndstop.png)
@@ -57,6 +59,9 @@ Relocation for https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%20
 # [Simplish hinge for 0.1](voron-0.1/SimplishHinge)
 ![Simplish hinge](voron-0.1/SimplishHinge/Images/Simplish-Hinge.png)
 
+# [Simple wide opening hinge for 2.4](voron-2.4/SimpleHinge)
+![Simple hinge](voron-2.4/SimpleHinge/Images/FrontView.png)
+
 # Others
-- [Simple hinge for 2.4](voron-2.4/SimpleHinge)
+
 - [CerealBlowers](voron-2.4/CerealBlowers)
