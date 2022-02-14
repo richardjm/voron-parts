@@ -2,6 +2,8 @@
 
 ## 🚮 - Beta5
 
+**Note: ADXL mounting will likely become an integrated part of SB in the near future**
+
 ## Hardware - GY-291
 - GY-291 + connectors (I use jst-xh)
 - 2 * m3x50
