@@ -2,7 +2,7 @@
 
 ![LED](Images/LED.jpg)
 
-The diffuser from the 15.5mm quarter round led mounts works nicely.
+The diffuser from the [15.5mm quarter round led aluminium profile](https://www.amazon.co.uk/gp/product/B07RDNMQL6) works nicely.
 
 ## Hardware
 
