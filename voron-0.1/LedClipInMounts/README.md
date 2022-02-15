@@ -1,6 +1,6 @@
 # Clip-in LED mounts
 
-![LED](Images/LEd.jpg)
+![LED](Images/LED.jpg)
 
 The diffuser from the 15.5mm quarter round led mounts works nicely.
 
