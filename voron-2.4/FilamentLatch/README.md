@@ -1,5 +1,10 @@
 # Printable quick release latch for panels on 2020 extrusion
 
+*I wouldn't say no to a like an make on printables if you're that way inclined -
+https://www.printables.com/model/172368-voron-24-filament-latch-or-any-2020-extrusion*
+
+## Intro
+
 This is originally inspired by a youtube video - [https://www.youtube.com/watch?v=6p7M18oPn3k](https://www.youtube.com/watch?v=6p7M18oPn3k)
 
 Another user is creating cad and variants - [https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker](https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker)

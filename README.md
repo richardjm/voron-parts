@@ -1,4 +1,8 @@
 # voron-parts
+
+*If you like or print these please considering liking or adding a make to printables -
+https://www.printables.com/social/64622-richard-m/about*
+
 Just some other custom parts I've made that probably aren't worth making a pull request over. (discord: whistlinric)
 
 Almost all of these files are works in progress, they may break your printer and set your house on fire, so use at your own risk etc.
