@@ -48,6 +48,9 @@ Requires some filing for 0.1 pcb
 # [Front keystone for 2.4](voron-2.4/KeystoneSkirt)
 ![SkirtKeystone](Images/SkirtKeystone.png)
 
+# [Usb Charger 2.4](voron-2.4/UsbChargerSkirt)
+![SkirtKeystone](voron-2.4/UsbChargerSkirt/Images/UsbChargerSkirt.jpg)
+
 # [No drill mounts electronics for 0.1](voron-0.1/ElectronicsMounts)
 ![SKRHangMounts](Images/SKRHangMounts.png)
 
