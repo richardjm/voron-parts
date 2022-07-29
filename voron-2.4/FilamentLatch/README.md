@@ -26,7 +26,8 @@ Another user is creating cad and variants - [https://github.com/v6cl/My-Voron2.4
 
 ## Hardware
 - 3.0mm-5.5mm - m3x12
-- 6.0mm-8.5mm - m3x16
+- 6.0mm-8.0mm - m3x16
+- 8.5mm - m2x20
 
 ## The process
 
@@ -61,5 +62,6 @@ Once done, adjust the build plate view (use top view to ensure clearance) and sa
 
 ## Changes
 2022-02-11: Added detent from devincody
+2022-07-29: Reworked sketch to resolve in Fusion 360, re-exported fixing some incorrect sizes
 
 discord:whistlinric
