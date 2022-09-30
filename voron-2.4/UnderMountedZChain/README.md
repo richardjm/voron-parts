@@ -17,3 +17,6 @@ the x or y gantry.
 ![Cable Cover with cable](Images/CableCover.png)
 
 ![Clip for the AB cables](Images/CableClip.png)
+
+## For reference by Can Bus route
+![CanBus Route](Images/CanUmbilicalRoute.png)
