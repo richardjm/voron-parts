@@ -1,6 +1,6 @@
 # Simple box for d1 mini for WLED
 
-*I wouldn't say no to a like an make on printables if you're that way inclined -
+*If you like or print these please considering downloading and liking on printables -
 https://www.printables.com/model/172367-wled-controller-box*
 
 ## Introduction

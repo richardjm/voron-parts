@@ -1,6 +1,6 @@
 # Undermount z chain using Klicky
 
-*If you like or print these please considering liking or adding a make to printables -
+*If you like or print these please considering downloading and liking on printables -
 https://www.printables.com/model/279739-voron-can-bus-z-chain-move*
 
 Using the [Klicky Probe](https://github.com/jlas1/Klicky-Probe) mount 

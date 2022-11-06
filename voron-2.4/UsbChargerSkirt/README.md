@@ -1,6 +1,6 @@
 # USB Charger port for the Voron skirts
 
-*I wouldn't say no to a like an make on printables if you're that way inclined -
+*If you like or print these please considering downloading and liking on printables -
 https://www.printables.com/model/173688-usb-charger-skirt-for-voron-2*
 
 ## Intro
