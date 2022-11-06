@@ -7,7 +7,9 @@ https://www.printables.com/model/172368-voron-24-filament-latch-or-any-2020-extr
 
 This is originally inspired by a youtube video - [https://www.youtube.com/watch?v=6p7M18oPn3k](https://www.youtube.com/watch?v=6p7M18oPn3k)
 
-A recent review video on [YouTube by Maple Leaf Makers](https://discord.com/channels/@me/1038527502970261524/1038815414836269166)
+A recent review video on [YouTube by Maple Leaf Makers](https://www.youtube.com/watch?v=gv-oSba75Ho)
+
+Another user did a review of the clips on YouTube - [Best way to mount panels to your 3D Printer? Quick Release Panel Clip Mod](https://www.youtube.com/watch?v=ng1qu3w8wlc&t=2s)
 
 ![Latch](Images/Latch-v68-3mm.jpg)
 
