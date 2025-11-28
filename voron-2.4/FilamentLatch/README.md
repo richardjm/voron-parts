@@ -36,7 +36,7 @@ Another user did a review of the clips on YouTube - [Best way to mount panels to
 1. Cad attempt one failed, just modified surfaces to create a filament variant but adjustement beyond that failed
 1. Cad attempt two failed, created a traced version copying the dimensions but again couldn't get a reliable adjustment
 1. Cad attempt three of the cad sketch made as built was finally onto something, took until v45 before I had something that seemed to fulfil my requirements, then after thinking overnight revisited earlier designs and finally hit RC at v68 (18 actually printed)
-1. Final design and thankfully discovered [sheeter](https://n3rdlab.com/downloads/sheeter/) which allows me to produce many stls based on parameters
+1. Final design and thankfully discovered ~[sheeter](https://web.archive.org/web/20220301192352/https://n3rdlab.com/downloads/sheeter/)~(defunct) which allows me to produce many stls based on parameters
 
 ## Assembly
 
